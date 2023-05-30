@@ -1,5 +1,5 @@
 [![MasterHead](https://media.licdn.com/dms/image/D5616AQHHCJiFnmPc0A/profile-displaybackgroundimage-shrink_350_1400/0/1685462786483?e=1691020800&v=beta&t=oxriogqOIWV_8-44s5rRORfER8A5nX94TF6zcO07Hhs)](https://montaser.vercel.app/)
-<h1 align="center">Hi 👋, I'm Abdallah El Montaser</h1>
+<h1 align="center">Hi 👋, I'm Abdallah EL MONTASER</h1>
 <h3 align="center">A passionate full-stack developer from Morocco</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/media/7ed7d5ca074b48b328150e5a231e8d1f.gif">
 
@@ -9,11 +9,9 @@
 
 - 🌱 I’m currently learning **React, Tailwind CSS**
 
-- 👨‍💻 All of my projects are available at [https://montaser.vercel.app/](https://montaser.vercel.app/)
+- 👨‍💻 All of my projects are available at [Portfolio](https://montaser.vercel.app/)
 
-- 📫 How to reach me **elmontaserabdallah@email.com**
-
-- ⚡ Fun fact **I am funny**
+- 📫 How to reach me **elmontaserabdallah@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
