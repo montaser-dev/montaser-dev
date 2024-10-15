@@ -5,9 +5,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=montaser-dev&label=Profile%20views&color=0e75b6&style=flat" alt="montaser-dev" /> </p>
 
-- 🔭 I’m currently working on **AuthFlow and School Management System**
+- 🔭 I’m currently working on **Laravel Blog CRUD**
 
-- 🌱 I’m currently learning **Flutter**
+- 🌱 I’m currently learning **Laravel**
 
 - 👨‍💻 All of my projects are available at [Portfolio](https://montaser.vercel.app/)
 
