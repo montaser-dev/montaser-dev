@@ -5,9 +5,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=montaser-dev&label=Profile%20views&color=0e75b6&style=flat" alt="montaser-dev" /> </p>
 
-- 🔭 I’m currently working on **Laravel Blog CRUD**
+- 🔭 I’m currently working on **Next.js 15 platform**
 
-- 🌱 I’m currently learning **Laravel**
+- 🌱 I’m currently learning **Next.js**
 
 - 👨‍💻 All of my projects are available at [Portfolio](https://montaser.vercel.app/)
 
