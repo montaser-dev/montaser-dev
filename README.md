@@ -1,28 +1,174 @@
-[![MasterHead](https://media.licdn.com/dms/image/D5616AQHHCJiFnmPc0A/profile-displaybackgroundimage-shrink_350_1400/0/1685462786483?e=1691020800&v=beta&t=oxriogqOIWV_8-44s5rRORfER8A5nX94TF6zcO07Hhs)](https://montaser.vercel.app/)
-<h1 align="center">Hi 👋, I'm Abdallah EL MONTASER</h1>
-<h3 align="center">A passionate full-stack developer from Morocco</h3>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/media/7ed7d5ca074b48b328150e5a231e8d1f.gif">
+# 👋 Hi, I'm Abdallah EL MONTASER
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=montaser-dev&label=Profile%20views&color=0e75b6&style=flat" alt="montaser-dev" /> </p>
+### Full Stack Web Developer | PHP / Laravel | React | MySQL
 
-- 🔭 I’m currently working on **Next.js 15 platform**
+I'm a Full Stack Web Developer from Morocco, focused on building modern, responsive web applications and practical business solutions.
 
-- 🌱 I’m currently learning **Next.js**
+I work mainly with **PHP, Laravel, React, JavaScript, MySQL, REST APIs, HTML, CSS, Bootstrap and Tailwind CSS**.
 
-- 👨‍💻 All of my projects are available at [Portfolio](https://montaser.vercel.app/)
+🎓 **Licence in Computer Engineering | 2026**  
+🏫 École High-Tech, Rabat, Morocco
 
-- 📫 How to reach me **elmontaserabdallah@gmail.com**
+---
 
-<h3 align="left">Connect with me:</h3>
+## 🚀 What I Do
+
+- 🌐 Build responsive and modern web applications
+- ⚙️ Develop backend systems with **PHP & Laravel**
+- ⚛️ Build frontend interfaces with **React & JavaScript**
+- 🔗 Integrate **REST APIs**
+- 🗄️ Design and work with **MySQL databases**
+- 🔐 Implement authentication and application workflows
+- 🎨 Build clean and responsive UI with **Tailwind CSS & Bootstrap**
+- 🛠️ Develop custom solutions for businesses and clients
+
+---
+
+## 🧰 Tech Stack
+
+### Frontend
+
 <p align="left">
-<a href="https://linkedin.com/in/montaserdev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="montaserdev" height="30" width="40" /></a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40" height="40" alt="HTML5"/>
+</a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40" height="40" alt="CSS3"/>
+</a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40" alt="JavaScript"/>
+</a>
+<a href="https://react.dev/" target="_blank">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="40" height="40" alt="React"/>
+</a>
+<a href="https://tailwindcss.com/" target="_blank">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg" width="40" height="40" alt="Tailwind CSS"/>
+</a>
+<a href="https://getbootstrap.com/" target="_blank">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original-wordmark.svg" width="40" height="40" alt="Bootstrap"/>
+</a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> </p>
+### Backend
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=montaser-dev&show_icons=true&locale=en&layout=compact" alt="montaser-dev" /></p>
+<p align="left">
+<a href="https://www.php.net/" target="_blank">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" width="40" height="40" alt="PHP"/>
+</a>
+<a href="https://laravel.com/" target="_blank">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-original.svg" width="40" height="40" alt="Laravel"/>
+</a>
+<a href="https://vuejs.org/" target="_blank">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" width="40" height="40" alt="Vue.js"/>
+</a>
+</p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=montaser-dev&show_icons=true&locale=en" alt="montaser-dev" /></p>
+### Database & Tools
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=montaser-dev&" alt="montaser-dev" /></p>
+<p align="left">
+<a href="https://www.mysql.com/" target="_blank">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40" height="40" alt="MySQL"/>
+</a>
+<a href="https://git-scm.com/" target="_blank">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40" height="40" alt="Git"/>
+</a>
+<a href="https://github.com/" target="_blank">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="40" height="40" alt="GitHub"/>
+</a>
+<a href="https://www.figma.com/" target="_blank">
+<img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width="40" height="40" alt="Figma"/>
+</a>
+</p>
+
+---
+
+## 💻 Featured Projects
+
+### 🏢 SIRH Platform
+
+A Human Resources Management platform developed with **Laravel, React and MySQL/MariaDB**.
+
+- Employee management
+- Leave management and workflows
+- Role-based access
+- Authentication
+- REST API architecture
+
+**Tech:** Laravel · React · MySQL · REST API · Git
+
+---
+
+### 🏥 Hospital Management System
+
+A web application designed to manage hospital-related operations and data.
+
+**Tech:** PHP · Laravel · MySQL · HTML · CSS · JavaScript
+
+---
+
+### 🌍 GeoWorld
+
+A React application using the **REST Countries API** to explore countries and display detailed information.
+
+**Tech:** React · TypeScript · REST API · Bootstrap
+
+---
+
+### 🔗 Laravel URL Shortener
+
+A URL shortening application built with Laravel, including URL creation, storage and redirection.
+
+**Tech:** Laravel · PHP · MySQL · Blade
+
+---
+
+### 📚 Online Book Store
+
+An e-commerce web application for browsing and managing books, with shopping and backend functionality.
+
+**Tech:** Laravel · React · MySQL · REST API
+
+---
+
+## 🌐 Portfolio
+
+Check out my portfolio and projects:
+
+👉 **[montaser.vercel.app](https://montaser.vercel.app/)**
+
+---
+
+## 📫 Connect With Me
+
+<p align="left">
+<a href="https://linkedin.com/in/montaserdev" target="_blank">
+<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40"/>
+</a>
+<a href="mailto:elmontaserabdallah@gmail.com">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" alt="Email" height="30" width="30"/>
+</a>
+</p>
+
+📧 **Email:** elmontaserabdallah@gmail.com
+
+---
+
+## 📊 GitHub Stats
+
+<p>
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=montaser-dev&show_icons=true&locale=en&layout=compact" alt="Top Languages"/>
+</p>
+
+<p>
+<img src="https://github-readme-stats.vercel.app/api?username=montaser-dev&show_icons=true&locale=en" alt="GitHub Stats"/>
+</p>
+
+<p>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=montaser-dev" alt="GitHub Streak"/>
+</p>
+
+---
+
+### 🚀 Currently
+
+I'm focused on improving my **Full Stack development skills**, building real-world applications with **Laravel and React**, and growing as a professional web developer.
