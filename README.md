@@ -1,174 +1,138 @@
-# 👋 Hi, I'm Abdallah EL MONTASER
+<div align="center">
 
-### Full Stack Web Developer | PHP / Laravel | React | MySQL
+# 👋 Hey, I'm Abdallah EL MONTASER
 
-I'm a Full Stack Web Developer from Morocco, focused on building modern, responsive web applications and practical business solutions.
+### Full Stack Web Developer 🇲🇦
 
-I work mainly with **PHP, Laravel, React, JavaScript, MySQL, REST APIs, HTML, CSS, Bootstrap and Tailwind CSS**.
+I build modern web applications with **Laravel, React & MySQL**.
 
-🎓 **Licence in Computer Engineering | 2026**  
-🏫 École High-Tech, Rabat, Morocco
+[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-montaser.vercel.app-111827?style=for-the-badge)](https://montaser.vercel.app/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/montaserdev)
+[![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:elmontaserabdallah@gmail.com)
 
----
-
-## 🚀 What I Do
-
-- 🌐 Build responsive and modern web applications
-- ⚙️ Develop backend systems with **PHP & Laravel**
-- ⚛️ Build frontend interfaces with **React & JavaScript**
-- 🔗 Integrate **REST APIs**
-- 🗄️ Design and work with **MySQL databases**
-- 🔐 Implement authentication and application workflows
-- 🎨 Build clean and responsive UI with **Tailwind CSS & Bootstrap**
-- 🛠️ Develop custom solutions for businesses and clients
+</div>
 
 ---
 
-## 🧰 Tech Stack
+## 👨‍💻 About Me
+
+I'm a **Full Stack Web Developer from Morocco** focused on building responsive, practical and user-friendly web applications.
+
+I enjoy working across the full development process, from designing databases and building APIs to creating modern frontend interfaces.
+
+🎓 **Licence in Computer Engineering · 2026**  
+📍 **Morocco**
+
+---
+
+## 🛠️ My Stack
+
+<div align="center">
 
 ### Frontend
 
-<p align="left">
-<a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40" height="40" alt="HTML5"/>
-</a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40" height="40" alt="CSS3"/>
-</a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40" alt="JavaScript"/>
-</a>
-<a href="https://react.dev/" target="_blank">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="40" height="40" alt="React"/>
-</a>
-<a href="https://tailwindcss.com/" target="_blank">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg" width="40" height="40" alt="Tailwind CSS"/>
-</a>
-<a href="https://getbootstrap.com/" target="_blank">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original-wordmark.svg" width="40" height="40" alt="Bootstrap"/>
-</a>
-</p>
+<img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,bootstrap" />
 
 ### Backend
 
-<p align="left">
-<a href="https://www.php.net/" target="_blank">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" width="40" height="40" alt="PHP"/>
-</a>
-<a href="https://laravel.com/" target="_blank">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-original.svg" width="40" height="40" alt="Laravel"/>
-</a>
-<a href="https://vuejs.org/" target="_blank">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" width="40" height="40" alt="Vue.js"/>
-</a>
-</p>
+<img src="https://skillicons.dev/icons?i=php,laravel" />
 
 ### Database & Tools
 
-<p align="left">
-<a href="https://www.mysql.com/" target="_blank">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40" height="40" alt="MySQL"/>
-</a>
-<a href="https://git-scm.com/" target="_blank">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40" height="40" alt="Git"/>
-</a>
-<a href="https://github.com/" target="_blank">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="40" height="40" alt="GitHub"/>
-</a>
-<a href="https://www.figma.com/" target="_blank">
-<img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width="40" height="40" alt="Figma"/>
-</a>
-</p>
+<img src="https://skillicons.dev/icons?i=mysql,git,github,figma,vscode" />
+
+</div>
 
 ---
 
-## 💻 Featured Projects
+## 🚀 What I Build
+
+| 🌐 Web Applications | ⚙️ Backend Systems |
+|---|---|
+| Responsive interfaces | REST APIs |
+| E-commerce platforms | Authentication |
+| Business applications | Role-based access |
+| Custom websites | Database systems |
+
+---
+
+# 🔥 Featured Projects
 
 ### 🏢 SIRH Platform
+**Human Resources Management System**
 
-A Human Resources Management platform developed with **Laravel, React and MySQL/MariaDB**.
+A full-stack HR platform built with Laravel and React to manage employees, departments and leave workflows.
 
-- Employee management
-- Leave management and workflows
-- Role-based access
-- Authentication
-- REST API architecture
+**Tech:** `Laravel` `React` `MySQL` `REST API` `Authentication`
 
-**Tech:** Laravel · React · MySQL · REST API · Git
+---
+
+### 🛒 Online Book Store
+**E-commerce Web Application**
+
+A modern e-commerce platform for browsing and managing books, with shopping functionality and backend management.
+
+**Tech:** `Laravel` `React` `MySQL` `REST API`
 
 ---
 
 ### 🏥 Hospital Management System
+**Healthcare Management Application**
 
-A web application designed to manage hospital-related operations and data.
+A web application designed to manage hospital-related data and operations.
 
-**Tech:** PHP · Laravel · MySQL · HTML · CSS · JavaScript
+**Tech:** `PHP` `Laravel` `MySQL` `JavaScript`
 
 ---
 
 ### 🌍 GeoWorld
+**Explore Countries Through an API**
 
-A React application using the **REST Countries API** to explore countries and display detailed information.
+A React application using the REST Countries API to explore countries and display detailed information.
 
-**Tech:** React · TypeScript · REST API · Bootstrap
+**Tech:** `React` `TypeScript` `REST API` `Bootstrap`
 
 ---
 
 ### 🔗 Laravel URL Shortener
+**Simple · Fast · Practical**
 
-A URL shortening application built with Laravel, including URL creation, storage and redirection.
+A Laravel application for creating and managing shortened URLs.
 
-**Tech:** Laravel · PHP · MySQL · Blade
-
----
-
-### 📚 Online Book Store
-
-An e-commerce web application for browsing and managing books, with shopping and backend functionality.
-
-**Tech:** Laravel · React · MySQL · REST API
+**Tech:** `Laravel` `PHP` `MySQL` `Blade`
 
 ---
 
-## 🌐 Portfolio
+## 📊 GitHub Activity
 
-Check out my portfolio and projects:
+<div align="center">
 
-👉 **[montaser.vercel.app](https://montaser.vercel.app/)**
+<img src="https://github-readme-stats.vercel.app/api?username=montaser-dev&show_icons=true&hide_border=true&rank_icon=github" height="165"/>
 
----
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=montaser-dev&layout=compact&hide_border=true" height="165"/>
 
-## 📫 Connect With Me
+<br>
 
-<p align="left">
-<a href="https://linkedin.com/in/montaserdev" target="_blank">
-<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40"/>
-</a>
-<a href="mailto:elmontaserabdallah@gmail.com">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" alt="Email" height="30" width="30"/>
-</a>
-</p>
+<img src="https://streak-stats.demolab.com?user=montaser-dev&hide_border=true" />
 
-📧 **Email:** elmontaserabdallah@gmail.com
+</div>
 
 ---
 
-## 📊 GitHub Stats
+## 🌐 Let's Connect
 
-<p>
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=montaser-dev&show_icons=true&locale=en&layout=compact" alt="Top Languages"/>
-</p>
+<div align="center">
 
-<p>
-<img src="https://github-readme-stats.vercel.app/api?username=montaser-dev&show_icons=true&locale=en" alt="GitHub Stats"/>
-</p>
+### 🚀 Check out my work
 
-<p>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=montaser-dev" alt="GitHub Streak"/>
-</p>
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit_My_Website-111827?style=for-the-badge)](https://montaser.vercel.app/)
 
----
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Abdallah_EL_MONTASER-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/montaserdev)
 
-### 🚀 Currently
+[![Email](https://img.shields.io/badge/Email-elmontaserabdallah%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:elmontaserabdallah@gmail.com)
 
-I'm focused on improving my **Full Stack development skills**, building real-world applications with **Laravel and React**, and growing as a professional web developer.
+<br><br>
+
+**`Code → Build → Learn → Repeat`**
+
+</div>
