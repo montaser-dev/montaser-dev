@@ -1,138 +1,70 @@
 <div align="center">
 
-# 👋 Hey, I'm Abdallah EL MONTASER
+# Abdallah El Montaser
+### Full-Stack Developer · Laravel · React · TypeScript · Tailwind CSS
 
-### Full Stack Web Developer 🇲🇦
+Computer Engineering graduate from Morocco 🇲🇦, building web apps from database to UI.
 
-I build modern web applications with **Laravel, React & MySQL**.
+**🟢 Open to remote opportunities**
 
-[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-montaser.vercel.app-111827?style=for-the-badge)](https://montaser.vercel.app/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/montaserdev)
-[![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:elmontaserabdallah@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-montaser.vercel.app-111827?style=for-the-badge&logo=vercel&logoColor=white)](https://montaser.vercel.app/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-montaserdev-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/montaserdev)
+[![Email](https://img.shields.io/badge/Email-Contact_me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:elmontaserabdallah@gmail.com)
 
 </div>
 
 ---
 
-## 👨‍💻 About Me
+## 👨‍💻 About
 
-I'm a **Full Stack Web Developer from Morocco** focused on building responsive, practical and user-friendly web applications.
+I build responsive, practical web applications and enjoy the full process: designing the database, building the API, and shipping a clean interface.
 
-I enjoy working across the full development process, from designing databases and building APIs to creating modern frontend interfaces.
-
-🎓 **Licence in Computer Engineering · 2026**  
-📍 **Morocco**
+- 🔭 Currently building: [nova-ecommerce](https://github.com/montaser-dev/nova-ecommerce), an e-commerce platform in PHP
+- 🎨 Working with: Tailwind CSS, React, TypeScript
+- 🎓 Licence in Computer Engineering, 2026
+- 🗣️ Arabic (native) · French · English
 
 ---
 
-## 🛠️ My Stack
+## 🛠️ Tech Stack
 
 <div align="center">
 
-### Frontend
-
-<img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,bootstrap" />
-
-### Backend
-
-<img src="https://skillicons.dev/icons?i=php,laravel" />
-
-### Database & Tools
-
-<img src="https://skillicons.dev/icons?i=mysql,git,github,figma,vscode" />
-
-</div>
-
----
-
-## 🚀 What I Build
-
-| 🌐 Web Applications | ⚙️ Backend Systems |
+| | |
 |---|---|
-| Responsive interfaces | REST APIs |
-| E-commerce platforms | Authentication |
-| Business applications | Role-based access |
-| Custom websites | Database systems |
-
----
-
-# 🔥 Featured Projects
-
-### 🏢 SIRH Platform
-**Human Resources Management System**
-
-A full-stack HR platform built with Laravel and React to manage employees, departments and leave workflows.
-
-**Tech:** `Laravel` `React` `MySQL` `REST API` `Authentication`
-
----
-
-### 🛒 Online Book Store
-**E-commerce Web Application**
-
-A modern e-commerce platform for browsing and managing books, with shopping functionality and backend management.
-
-**Tech:** `Laravel` `React` `MySQL` `REST API`
-
----
-
-### 🏥 Hospital Management System
-**Healthcare Management Application**
-
-A web application designed to manage hospital-related data and operations.
-
-**Tech:** `PHP` `Laravel` `MySQL` `JavaScript`
-
----
-
-### 🌍 GeoWorld
-**Explore Countries Through an API**
-
-A React application using the REST Countries API to explore countries and display detailed information.
-
-**Tech:** `React` `TypeScript` `REST API` `Bootstrap`
-
----
-
-### 🔗 Laravel URL Shortener
-**Simple · Fast · Practical**
-
-A Laravel application for creating and managing shortened URLs.
-
-**Tech:** `Laravel` `PHP` `MySQL` `Blade`
-
----
-
-## 📊 GitHub Activity
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=montaser-dev&show_icons=true&hide_border=true&rank_icon=github" height="165"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=montaser-dev&layout=compact&hide_border=true" height="165"/>
-
-<br>
-
-<img src="https://streak-stats.demolab.com?user=montaser-dev&hide_border=true" />
+| **Frontend** | <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,vue,tailwind,bootstrap" /> |
+| **Backend** | <img src="https://skillicons.dev/icons?i=php,laravel" /> |
+| **Database** | <img src="https://skillicons.dev/icons?i=mysql" /> |
+| **Tools** | <img src="https://skillicons.dev/icons?i=git,github,figma,vscode,vite,npm" /> |
 
 </div>
 
 ---
 
-## 🌐 Let's Connect
+## 🔥 Featured Projects
+
+| Project | What it does | Tech | Links |
+|---|---|---|---|
+| **🏢 SIRH Platform**<br>*Graduation project* | HR platform for employee management, leave tracking, authentication, RBAC and Excel/PDF export | `Laravel` `React` `TypeScript` `MySQL` `REST API` | [Code](#) · [Demo](#) |
+| **🛒 nova-ecommerce**<br>*In progress* | E-commerce platform with product browsing and backend management | `PHP` `VueJS` `MySQL` `Tailwind` | [Code](https://github.com/montaser-dev/nova-ecommerce) |
+| **📚 Online Book Store** | Customers browse and buy books online | `PHP` `MySQL` `Bootstrap` `JavaScript` | [Code](#) · [Demo](#) |
+| **🏥 Hospital Management** | Patients book appointments and request prescriptions | `PHP` `MySQL` `JavaScript` | [Code](https://github.com/montaser-dev/Hospital-Management-System) |
+
+---
+
+## 💼 Experience
+
+- **IT Intern**, Indegate (03/2023 – 05/2023): managed client websites, built landing pages, resolved technical issues
+- **Freelance Web Developer**, Fiverr (08/2022 – 01/2023): built landing pages with HTML, CSS and JavaScript, fixed bugs for client projects
+- **Web Developer Intern**, Webmarko (05/2022 – 06/2022): contributed to a web-based hospital management application
+
+
+
+
+---
 
 <div align="center">
 
-### 🚀 Check out my work
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit_My_Website-111827?style=for-the-badge)](https://montaser.vercel.app/)
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Abdallah_EL_MONTASER-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/montaserdev)
-
-[![Email](https://img.shields.io/badge/Email-elmontaserabdallah%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:elmontaserabdallah@gmail.com)
-
-<br><br>
-
-**`Code → Build → Learn → Repeat`**
+📫 **elmontaserabdallah@gmail.com** · 🌐 **[montaser.vercel.app](https://montaser.vercel.app/)**
 
 </div>
